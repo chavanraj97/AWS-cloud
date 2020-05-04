@@ -1,8 +1,9 @@
 # Models of cloud services
-There are namely 3 models of cloud services which are as follows
+The models of cloud services are as follows
 1. SAAS (Software as a service)
 1. PAAS (Platform as a service)
-1. IAAS (Infrastructure as a service)<br/>
+1. IAAS (Infrastructure as a service)
+1. Serverless<br>
 
 
 ## SAAS
