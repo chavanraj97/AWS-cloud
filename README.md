@@ -6,6 +6,7 @@ everything about cloud computing with Amazon-AWS
 ## Introduction
 - What is cloud <br/>
 - Difference between types of clouds <br/>
+- Models of cloud services <br/>
 - Different vendors and costing of cloud computing services <br/>
 - Introduction to different types of services offered by AWS and how to use them
 - History of AWS
