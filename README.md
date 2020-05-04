@@ -10,6 +10,14 @@ everything about cloud computing with Amazon-AWS
 - Introduction to different types of services offered by AWS and how to use them
 - History of AWS
 
+## Services offerred and how to use them
+- Compute
+- Storage
+- Database
+- Security
+- Robotics
+- Machine Learning
+
 
 
 
