@@ -9,3 +9,7 @@ Once the work is done it can be easily turned off temporarily by the user or ter
 
 Following are the steps to create an ec2<br/>
 1. Click on services 
+1. Select ec2 (if you don't find just search it in the search box)
+1. First you'll be asked to choose an AMI which is basically an operating system. There are multiple operating systems available which includes windows, linux etc .
+1. Select the type of instance suitable for your application and click on next.
+1. Configure instance.
