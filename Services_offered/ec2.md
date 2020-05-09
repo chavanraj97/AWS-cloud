@@ -1,4 +1,4 @@
-#EC2
+# EC2
 It is service offered by AWS which allows us to create a virtual computer system with the operating system of our choice.<br/>
 It also allows us to choose the hardware of our choice like the amount of storage we require or the RAM which is compatible to our needs.<br/>
 It can be easily controlled by the user without worrying about the failure of resources.<br/>
